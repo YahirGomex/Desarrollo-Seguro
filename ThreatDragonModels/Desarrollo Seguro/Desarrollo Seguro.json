@@ -7,7 +7,17 @@
     "id": 0
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Jose Eduardo Perez Valenzuela"
+      },
+      {
+        "name": "Yahir Alejandro Lomeli Gomez"
+      },
+      {
+        "name": "Juan Pablo Alvarez Camarena"
+      }
+    ],
     "diagrams": [],
     "diagramTop": 0,
     "reviewer": "",
