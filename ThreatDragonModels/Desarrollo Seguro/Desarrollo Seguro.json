@@ -18,8 +18,18 @@
         "name": "Juan Pablo Alvarez Camarena"
       }
     ],
-    "diagrams": [],
-    "diagramTop": 2,
+    "diagrams": [
+      {
+        "id": 2,
+        "title": "Blockchain de aeropuertos",
+        "diagramType": "Genérico",
+        "placeholder": "Descripción de nuevo diagrama genérico",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.2.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 3,
     "reviewer": "",
     "threatTop": 0
   }
